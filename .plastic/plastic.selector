@@ -1,0 +1,3 @@
+repository "PetProject@ANSEI@cloud"
+  path "/"
+    smartbranch "/main/Dev/Mechanics"
