@@ -6,12 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Solo/Mobiles/Arcade/AviationDoubler/Scenes/Loading.unity
+    path: Assets/Projects/Solo/Mobiles/Arcade/AviationDoubler/Fantasy Skybox FREE/Scenes/Demo
+      with terrain.unity
+    guid: 594da9eac4a488a479b252ff922516d9
+  - enabled: 1
+    path: Assets/Projects/Solo/Mobiles/Arcade/AviationDoubler/Fantasy Skybox FREE/Scenes/Demo
+      without test terrain.unity
+    guid: 12c6f44bbd4eef541a925ea029b57f07
+  - enabled: 1
+    path: Assets/Projects/Solo/Mobiles/Arcade/AviationDoubler/Scenes/Gaming.unity
+    guid: 63990121064e7dc45828b69a790cd8c6
+  - enabled: 1
+    path: Assets/Projects/Solo/Mobiles/Arcade/AviationDoubler/Scenes/Loading.unity
     guid: 9516011c16c93df45b70ff816a2ed046
   - enabled: 1
-    path: Assets/Solo/Mobiles/Arcade/AviationDoubler/Scenes/MenuScene.unity
+    path: Assets/Projects/Solo/Mobiles/Arcade/AviationDoubler/Scenes/MenuScene.unity
     guid: fba7b43c1216c374f926d5eabc66b78d
-  - enabled: 1
-    path: Assets/Solo/Mobiles/Arcade/AviationDoubler/Scenes/Gaming.unity
-    guid: 63990121064e7dc45828b69a790cd8c6
   m_configObjects: {}
